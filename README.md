@@ -30,13 +30,12 @@ Review Deep leanrning and fundamental mathematical knowledge related. Also pract
 | Ch3 Linear Neural Networks (3.5-3.7)          |            |                                                              |      |
 | Ch5 Deep Learning Computation (5.1-5.3)       |            |                                                              |      |
 | Ch5 Deep Learning Computation (5.4-5.6)       |            |                                                              |      |
-| Ch10 Attention Mechanisms (10.1-10.2)         |            |                                                              |      |
-| Ch10 Attention Mechanisms (10.3-10.5)         |            |                                                              |      |
-| Ch10 Attention Mechanisms (10.6)              |            |                                                              |      |
-| Ch10 Attention Mechanisms (10.7)              |            |                                                              |      |
-| Ch14 Natural Language Processing (14.1)       |            |                                                              |      |
-| Ch14 Natural Language Processing (14.2-14.3)  |            |                                                              |      |
-| Ch14 Natural Language Processing (14.4-14.5)  |            |                                                              |      |
-| Ch14 Natural Language Processing (14.6-14.7)  |            |                                                              |      |
-| Ch14 Natural Language Processing (14.8-14.10) |            |                                                              |      |
+| Ch11 Attention Mechanisms (11.1-11.4)         |            |                                                              |      |
+| Ch11 Attention Mechanisms (11.5-11.7)         |            |                                                              |      |
+| Ch11 Attention Mechanisms (11.8-11.9)         |            |                                                              |      |
+| Ch15 Natural Language Processing (15.1)       |            |                                                              |      |
+| Ch15 Natural Language Processing (15.2-15.3)  |            |                                                              |      |
+| Ch15 Natural Language Processing (15.4-15.5)  |            |                                                              |      |
+| Ch15 Natural Language Processing (15.6-15.7)  |            |                                                              |      |
+| Ch15 Natural Language Processing (15.8-15.10) |            |                                                              |      |
 
